@@ -44,10 +44,6 @@ Theme includes a lot of components, which can not only be used in the theme, but
 
 [![lighthouse-score](./.github/assets/lighthouse-score.png)](https://pagespeed.web.dev/analysis/https-cworld-top/o229zrt5o4?form_factor=mobile&hl=en)
 
-## Documentation
-
-[Docs](https://astro-pure.js.org/docs) | [Showcase](https://github.com/cworld1/astro-theme-pure/issues/10)
-
 ## Package
 
 See [astro-theme-pure](https://www.npmjs.com/package/astro-pure) on npm.
@@ -94,7 +90,7 @@ To spend more time coding and less time fiddling with whitespace, this project u
 - [Astro Resume](https://github.com/srleom/astro-theme-resume)
 - [Starlight](https://github.com/withastro/starlight)
 
-Other third party references are on [Docs#Contributions](https://astro-pure.js.org/docs/advanced/thanks). Appreciate for all open source libraries.
+Appreciate for all open source libraries.
 
 ## License
 

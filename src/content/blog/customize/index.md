@@ -28,11 +28,11 @@ Next, we will introduce each aspect in detail.
 
 ### Configuration Files
 
-See [Configuration Files](/docs/setup/configuration) for details.
+Key settings live in `src/site.config.ts` alongside the other config files in the repo.
 
 #### Waline Comment System
 
-See [Waline Comment System](/docs/integrations/comment) for details.
+Waline options are defined in `src/site.config.ts` for quick tweaks.
 
 #### Footer
 
@@ -77,4 +77,4 @@ It is recommended to find new icons on the following websites to maintain consis
 
 ## Deployment Mode
 
-See [Deployment](/docs/deployment) for details.
+Follow Astro's deployment guides for your preferred platform when you're ready to ship.

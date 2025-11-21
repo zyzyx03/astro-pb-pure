@@ -44,10 +44,6 @@
 
 [![lighthouse-score](./.github/assets/lighthouse-score.png)](https://pagespeed.web.dev/analysis/https-cworld-top/o229zrt5o4?form_factor=mobile&hl=en)
 
-## 文档
-
-[文档](https://astro-pure.js.org/docs) | [展示台](https://github.com/cworld1/astro-theme-pure/issues/10)
-
 ## NPM 包
 
 在 NPM 上查看：[astro-theme-pure](https://www.npmjs.com/package/astro-pure)
@@ -94,7 +90,7 @@ bun new-post
 - [Astro Resume](https://github.com/srleom/astro-theme-resume)
 - [Starlight](https://github.com/withastro/starlight)
 
-其他第三方参考资料在 [Docs#Contributions](https://astro-pure.js.org/docs/advanced/thanks) 上。感谢所有开源库。
+感谢所有开源库。
 
 ## 许可证
 

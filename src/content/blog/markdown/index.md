@@ -310,4 +310,4 @@ Preview:
 
 ## Embedding Astro Components
 
-See [User Components](/docs/integrations/components) and [Advanced Components](/docs/integrations/advanced) for details.
+Use the built-in user and advanced components from this theme to embed richer elements in your posts.
